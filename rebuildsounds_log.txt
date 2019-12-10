@@ -1,0 +1,4872 @@
+Skipping COMMENT line: ; Core Asterisk Sounds in English
+Generating activated with prompt:
+Activated.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/activated.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/activated.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating added with prompt:
+Added.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/added.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/added.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating agent-alreadyon with prompt:
+That agent is already logged on.  Please enter your agent number followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-alreadyon.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-alreadyon.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    84/85      32 kbps
+Generating agent-incorrect with prompt:
+Login incorrect.  Please enter your agent number followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-incorrect.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-incorrect.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    72/73      32 kbps
+Generating agent-loggedoff with prompt:
+Agent Logged off.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-loggedoff.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-loggedoff.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating agent-loginok with prompt:
+Agent logged in.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-loginok.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-loginok.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating agent-newlocation with prompt:
+Please enter a new extension, followed by pound.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-newlocation.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-newlocation.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating agent-pass with prompt:
+Please enter your password followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-pass.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-pass.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating agent-user with prompt:
+Agent login.  Please enter your agent number followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/agent-user.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/agent-user.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    69/70      32 kbps
+Generating all-circuits-busy-now with prompt:
+All circuits are busy now.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/all-circuits-busy-now.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/all-circuits-busy-now.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Skipping DIRECTION line: ascending-2tone: [ascending tones]
+Generating astcc-followed-by-pound with prompt:
+Followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/astcc-followed-by-pound.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/astcc-followed-by-pound.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating at-tone-time-exactly with prompt:
+At the sound of the tone, the time will be exactly...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/at-tone-time-exactly.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/at-tone-time-exactly.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating auth-incorrect with prompt:
+Password incorrect.  Please enter your password followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/auth-incorrect.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/auth-incorrect.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    71/72      32 kbps
+Generating auth-thankyou with prompt:
+Thank you.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/auth-thankyou.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/auth-thankyou.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating basic-pbx-ivr-main with prompt:
+Thank you for calling Super Awesome Company, Waldo's premier provider of perfect products. If you know your party's extension, you may dial it at any time. To establish a sales partnership, press one. To speak with a customer advocate, press two. For accounting and other receivables, press three. For a company directory, press four. For an operator, press zero.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/basic-pbx-ivr-main.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/basic-pbx-ivr-main.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   356/357     32 kbps
+Skipping DIRECTION line: beeperr: [this is an error beep tone]
+Skipping DIRECTION line: beep: [this is a simple beep tone]
+Generating call-forwarding with prompt:
+Call forwarding.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/call-forwarding.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/call-forwarding.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating call-fwd-no-ans with prompt:
+Call-Forward on No Answer.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/call-fwd-no-ans.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/call-fwd-no-ans.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating call-fwd-on-busy with prompt:
+Call-Forward on Busy.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/call-fwd-on-busy.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/call-fwd-on-busy.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating call-fwd-unconditional with prompt:
+Call-Forward Unconditional.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/call-fwd-unconditional.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/call-fwd-unconditional.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating calling with prompt:
+Calling.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/calling.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/calling.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating call-waiting with prompt:
+Call waiting.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/call-waiting.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/call-waiting.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating cancelled with prompt:
+Cancelled.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/cancelled.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/cancelled.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating cannot-complete-as-dialed with prompt:
+Your call cannot be completed as dialed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/cannot-complete-as-dialed.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/cannot-complete-as-dialed.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating check-number-dial-again with prompt:
+Please check the number and dial again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/check-number-dial-again.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/check-number-dial-again.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    35/36      32 kbps
+Generating conf-adminmenu-162 with prompt:
+Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 5 to extend the conference, 7 or 9 to decrease or increase your volume, or 8 to exit.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-adminmenu-162.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-adminmenu-162.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   228/229     32 kbps
+Generating conf-adminmenu-18 with prompt:
+Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 5 to extend the conference, 7 or 9 to decrease or increase your volume, or 8 for more options.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-adminmenu-18.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-adminmenu-18.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   235/236     32 kbps
+Generating conf-adminmenu-menu8 with prompt:
+Press 1 to list users currently in the conference, 2 to kick all non-administrator users, 3 to mute or umute all non-administrator users, 4 to record this conference, or 8 to exit this menu and return to the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-adminmenu-menu8.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-adminmenu-menu8.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   200/201     32 kbps
+Generating conf-adminmenu with prompt:
+Please press 1 to mute or unmute yourself, 2 to lock or unlock the conference, 3 to eject the last user, 4 or 6 to decrease or increase the conference volume, 7 or 9 to decrease or increase your volume, or 8 to exit.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-adminmenu.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-adminmenu.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   200/201     32 kbps
+Generating confbridge-begin-glorious-a with prompt:
+the conference will begin when our glorious leader arrives
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-a.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-a.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-begin-glorious-b with prompt:
+the conference will begin when our glorious leader arrives
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-b.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-b.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-begin-glorious-c with prompt:
+the conference will begin when our glorious leader arrives
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-c.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-begin-glorious-c.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-begin-leader with prompt:
+the conference will begin when the leader arrives
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-begin-leader.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-begin-leader.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating confbridge-conf-begin with prompt:
+the conference will now begin
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-conf-begin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-conf-begin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating confbridge-conf-end with prompt:
+the conference has ended
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-conf-end.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-conf-end.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating confbridge-dec-list-vol-in with prompt:
+To decrease the audio volume from other participants...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-dec-list-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-dec-list-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating confbridge-dec-list-vol-out with prompt:
+...to decrease the audio volume from other participants.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-dec-list-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-dec-list-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating confbridge-dec-talk-vol-in with prompt:
+To decrease your speaking volume to other participants...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-dec-talk-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-dec-talk-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-dec-talk-vol-out with prompt:
+...to decrease your speaking volume to other participants.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-dec-talk-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-dec-talk-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-has-joined with prompt:
+...has joined the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-has-joined.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-has-joined.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating confbridge-has-left with prompt:
+...has left the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-has-left.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-has-left.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating confbridge-inc-list-vol-in with prompt:
+To increase the audio volume from other participants...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-inc-list-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-inc-list-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating confbridge-inc-list-vol-out with prompt:
+...to increase the audio volume from other participants.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-inc-list-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-inc-list-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating confbridge-inc-talk-vol-in with prompt:
+To increase your speaking volume to other participants...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-inc-talk-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-inc-talk-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-inc-talk-vol-out with prompt:
+...to increase your speaking volume to other participants.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-inc-talk-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-inc-talk-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-invalid with prompt:
+You have entered an invalid option.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-invalid.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-invalid.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Skipping DIRECTION line: confbridge-join: <beep ascending>
+Skipping DIRECTION line: confbridge-leave: <beep decending>
+Generating confbridge-leave-in with prompt:
+To leave the conference...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-leave-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-leave-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating confbridge-leave-out with prompt:
+...to leave the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-leave-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-leave-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating confbridge-locked with prompt:
+The conference is now locked.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-locked.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-locked.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating confbridge-lock-extended with prompt:
+...to lock, or unlock the conference. When a conference is locked only conference administrators can join.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-lock-extended.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-lock-extended.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    93/94      32 kbps
+Generating confbridge-lock-in with prompt:
+To lock, or unlock the conference...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-lock-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-lock-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating confbridge-lock-no-join with prompt:
+The conference is currently locked and cannot be joined.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-lock-no-join.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-lock-no-join.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    44/45      32 kbps
+Generating confbridge-lock-out with prompt:
+...to lock, or unlock the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-lock-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-lock-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating confbridge-menu-exit-in with prompt:
+To exit the menu...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-menu-exit-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-menu-exit-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating confbridge-menu-exit-out with prompt:
+...to exit the menu.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-menu-exit-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-menu-exit-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating confbridge-muted with prompt:
+You are now muted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-muted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-muted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating confbridge-mute-extended with prompt:
+...to mute, or unmute yourself. When you are muted you can not send audio to other participants. However you will still hear audio from other unmuted participants.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-mute-extended.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-mute-extended.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   154/155     32 kbps
+Generating confbridge-mute-in with prompt:
+To mute or unmute yourself...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-mute-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-mute-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating confbridge-mute-out with prompt:
+...to mute or unmute yourself.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-mute-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-mute-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating confbridge-only-one with prompt:
+There is currently one other participant in the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-only-one.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-only-one.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-only-participant with prompt:
+You are currently the only participant in the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-only-participant.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-only-participant.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating confbridge-participants with prompt:
+...participants in the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-participants.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-participants.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating confbridge-pin-bad with prompt:
+You have entered too many invalid personal identification numbers.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-pin-bad.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-pin-bad.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    59/60      32 kbps
+Generating confbridge-pin with prompt:
+Please enter your personal identification number followed by the pound, or hash key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-pin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-pin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    73/74      32 kbps
+Generating confbridge-removed with prompt:
+You have been removed from the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-removed.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-removed.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating confbridge-remove-last-in with prompt:
+To remove the participant who most recently joined the conference...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-remove-last-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-remove-last-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    53/54      32 kbps
+Generating confbridge-remove-last-out with prompt:
+...to remove the participant who most recently joined the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-remove-last-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-remove-last-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    53/54      32 kbps
+Generating confbridge-rest-list-vol-in with prompt:
+To reset the audio volume of the conference to the default level...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-rest-list-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-rest-list-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    54/55      32 kbps
+Generating confbridge-rest-list-vol-out with prompt:
+...to reset the audio volume of the conference to the default level.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-rest-list-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-rest-list-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    54/55      32 kbps
+Generating confbridge-rest-talk-vol-in with prompt:
+To reset your speaking volume to the default level...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-rest-talk-vol-in.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-rest-talk-vol-in.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating confbridge-rest-talk-vol-out with prompt:
+...to reset your speaking volume to the default level.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-rest-talk-vol-out.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-rest-talk-vol-out.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating confbridge-there-are with prompt:
+There are currently...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-there-are.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-there-are.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating confbridge-unlocked with prompt:
+The conference is now unlocked.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-unlocked.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-unlocked.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating confbridge-unmuted with prompt:
+You are no longer muted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/confbridge-unmuted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/confbridge-unmuted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating conf-enteringno with prompt:
+You are entering conference number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-enteringno.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-enteringno.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating conf-errormenu with prompt:
+Invalid Choice
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-errormenu.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-errormenu.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating conf-extended with prompt:
+The conference has been extended.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-extended.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-extended.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating conf-full with prompt:
+That conference is full.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-full.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-full.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating conf-getchannel with prompt:
+Please enter the channel number followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-getchannel.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-getchannel.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    46/47      32 kbps
+Generating conf-getconfno with prompt:
+Please enter your conference number followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-getconfno.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-getconfno.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    53/54      32 kbps
+Generating conf-getpin with prompt:
+Please enter the conference pin number.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-getpin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-getpin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    33/34      32 kbps
+Generating conf-hasjoin with prompt:
+is now in the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-hasjoin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-hasjoin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating conf-hasleft with prompt:
+has left the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-hasleft.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-hasleft.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating conf-invalidpin with prompt:
+That pin is invalid for this conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-invalidpin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-invalidpin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating conf-invalid with prompt:
+That is not a valid conference number.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-invalid.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-invalid.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    58/59      32 kbps
+Generating conf-kicked with prompt:
+You have been kicked from this conference
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-kicked.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-kicked.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    32/33      32 kbps
+Generating conf-leaderhasleft with prompt:
+The leader has left the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-leaderhasleft.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-leaderhasleft.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating conf-lockednow with prompt:
+The conference is now locked
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-lockednow.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-lockednow.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating conf-locked with prompt:
+This conference is locked!
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-locked.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-locked.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating conf-muted with prompt:
+You are now muted
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-muted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-muted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating conf-noempty with prompt:
+No empty conferences currently exist.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-noempty.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-noempty.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating conf-nonextended with prompt:
+The conference cannot be extended.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-nonextended.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-nonextended.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating conf-now-muted with prompt:
+The conference is now muted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-now-muted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-now-muted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating conf-now-recording with prompt:
+The conference is now being recorded.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-now-recording.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-now-recording.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating conf-now-unmuted with prompt:
+The conference is now unmuted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-now-unmuted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-now-unmuted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating conf-onlyone with prompt:
+There is currently one other participant in the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-onlyone.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-onlyone.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating conf-onlyperson with prompt:
+You are currently the only person in this conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-onlyperson.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-onlyperson.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating conf-otherinparty with prompt:
+other participants in the conference
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-otherinparty.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-otherinparty.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    33/34      32 kbps
+Generating conf-placeintoconf with prompt:
+You will now be placed into the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-placeintoconf.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-placeintoconf.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    37/38      32 kbps
+Generating conf-roll-callcomplete with prompt:
+Playback of the list of people attending is complete.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-roll-callcomplete.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-roll-callcomplete.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    46/47      32 kbps
+Generating conf-thereare with prompt:
+There are currently
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-thereare.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-thereare.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating conf-unlockednow with prompt:
+The conference is now unlocked
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-unlockednow.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-unlockednow.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating conf-unmuted with prompt:
+You are now unmuted
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-unmuted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-unmuted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating conf-usermenu-162 with prompt:
+Please press 1 to mute or unmute yourself, 4 or 6 to decrease or increase the conference volume, 5 to extend the conference, 7 or 9 to decrease or increase your volume, or 8 to exit this menu and return to the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-usermenu-162.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-usermenu-162.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   196/197     32 kbps
+Generating conf-usermenu with prompt:
+Please press 1 to mute or unmute yourself, 4 or 6 to decrease or increase the conference volume, 7 or 9 to decrease or increase your volume, or 8 to exit.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-usermenu.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-usermenu.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   143/144     32 kbps
+Generating conf-userswilljoin with prompt:
+users will join the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-userswilljoin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-userswilljoin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    31/32      32 kbps
+Generating conf-userwilljoin with prompt:
+user will join the conference.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-userwilljoin.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-userwilljoin.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating conf-waitforleader with prompt:
+The conference will begin when the leader arrives.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/conf-waitforleader.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/conf-waitforleader.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating de-activated with prompt:
+De-activated.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/de-activated.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/de-activated.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating demo-abouttotry with prompt:
+I am about to attempt an Inter-Asterisk Exchange connection to a demonstration server located at Digium.  In order for this to work you must already be connected to the Internet.  Please wait a moment while I attempt to make the connection.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-abouttotry.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-abouttotry.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   198/199     32 kbps
+Generating demo-congrats with prompt:
+Congratulations.  You have successfully installed and executed the Asterisk open source PBX.  You have also installed a set of sample sounds and configuration files that should help you to get started.  Like a normal PBX you will navigate this demonstration by dialing digits.  If you are using a console channel driver instead of a real phone you can use the dial, answer, and hang up commands to simulate the actions of a standard telephone.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-congrats.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-congrats.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   386/387     32 kbps
+Generating demo-echodone with prompt:
+The echo test has been completed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-echodone.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-echodone.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    33/34      32 kbps
+Generating demo-echotest with prompt:
+You are about to enter an echo test.  In this mode everything you say will be repeated back to you just as soon as it is received.  The purpose of this test is to give you an audible sense of the latency between you and the machine that is running the echo test application.  You may end the test by hanging up or by pressing the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-echotest.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-echotest.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   277/278     32 kbps
+Generating demo-enterkeywords with prompt:
+Please enter one or more keywords separated by * and then press the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-enterkeywords.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-enterkeywords.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    68/69      32 kbps
+Generating demo-instruct with prompt:
+If you would like to learn more technical information about Asterisk dial 2 now.  If you'd like to test out the voice over IP capabilities of Asterisk you can dial 500 to attempt an Inter-Asterisk Exchange or IAX connection to a demonstration server at Digium.  In order for this test to work you will need to be connected to the Internet and have at least a 28.8 kilobit modem.  To execute an echo test dial 600.  This test is most useful when you have connected to this Asterisk server from a remote location.  The sample configuration also has a single user with extension 1234 and password 4242.  That user is configured to ring the console when their extension is dialed.  If you dial 1234 you can try to ring the console.  If the console is busy or unavailable you will be given the option to leave voicemail.  To check voice mail for the user dial extension 8500 to enter the voicemail system.  Finally,  you can press the pound key to disconnect from the PBX.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-instruct.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-instruct.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   932/933     32 kbps
+Generating demo-moreinfo with prompt:
+Asterisk is an Open Source full-featured PBX and IVR platform that runs on the linux operating system.  For more information, visit www.asterisk.org.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-moreinfo.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-moreinfo.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   169/170     32 kbps
+Generating demo-nogo with prompt:
+I am afraid I was unable to create a connection to the Digium demonstration Asterisk server.  You may find some helpful debugging information on the Asterisk console.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-nogo.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-nogo.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   142/143     32 kbps
+Generating demo-nomatch with prompt:
+I'm sorry there are no matches for those keywords
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-nomatch.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-nomatch.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    43/44      32 kbps
+Generating demo-thanks with prompt:
+Goodbye.  Thank you for trying out the Asterisk Open Source PBX.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/demo-thanks.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/demo-thanks.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    67/68      32 kbps
+Skipping DIRECTION line: descending-2tone: [descending tones]
+Generating dictate/both_help with prompt:
+press * to toggle pause, press # to enter a new dictation filename
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/both_help.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/both_help.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    67/68      32 kbps
+Generating dictate/enter_filename with prompt:
+Enter a numeric dictation filename followed by # or just # to exit
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/enter_filename.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/enter_filename.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    69/70      32 kbps
+Generating dictate/forhelp with prompt:
+press 0 for help
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/forhelp.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/forhelp.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating dictate/paused with prompt:
+paused
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/paused.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/paused.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating dictate/pause with prompt:
+pause
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/pause.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/pause.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating dictate/playback_mode with prompt:
+playback mode
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/playback_mode.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/playback_mode.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating dictate/playback with prompt:
+playback
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/playback.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/playback.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating dictate/play_help with prompt:
+press 1 to switch to record mode, press 2 to toggle fast playback, press 7 to jump backwards, press 8 to jump forwards
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/play_help.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/play_help.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   119/120     32 kbps
+Generating dictate/record_help with prompt:
+press 1 to switch to playback mode, press 8 to truncate the file and start over
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/record_help.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/record_help.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    75/76      32 kbps
+Generating dictate/record_mode with prompt:
+record mode
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/record_mode.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/record_mode.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating dictate/record with prompt:
+record
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/record.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/record.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating dictate/truncating_audio with prompt:
+truncating audio
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dictate/truncating_audio.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dictate/truncating_audio.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating digits/0 with prompt:
+zero
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/0.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/0.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/10 with prompt:
+ten
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/10.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/10.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/11 with prompt:
+eleven
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/11.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/11.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/12 with prompt:
+twelve
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/12.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/12.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/13 with prompt:
+thirteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/13.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/13.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/14 with prompt:
+fourteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/14.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/14.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating digits/15 with prompt:
+fifteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/15.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/15.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/16 with prompt:
+sixteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/16.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/16.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating digits/17 with prompt:
+seventeen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/17.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/17.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating digits/18 with prompt:
+eighteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/18.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/18.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/19 with prompt:
+nineteen
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/19.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/19.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/1 with prompt:
+one
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/1.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/20 with prompt:
+twenty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/20.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/20.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/2 with prompt:
+two
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/2.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/30 with prompt:
+thirty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/30.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/30.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/3 with prompt:
+three
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/3.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/40 with prompt:
+forty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/40.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/40.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/4 with prompt:
+four
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/4.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/50 with prompt:
+fifty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/50.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/50.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/5 with prompt:
+five
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/5.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/60 with prompt:
+sixty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/60.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/60.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/6 with prompt:
+six
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/6.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/6.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/70 with prompt:
+seventy
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/70.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/70.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/7 with prompt:
+seven
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/7.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/7.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/80 with prompt:
+eighty
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/80.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/80.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/8 with prompt:
+eight
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/8.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/8.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/90 with prompt:
+ninety
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/90.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/90.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/9 with prompt:
+nine
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/9.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/9.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/a-m with prompt:
+A.M.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/a-m.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/a-m.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/at with prompt:
+at
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/at.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/at.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/billion with prompt:
+billion
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/billion.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/billion.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/day-0 with prompt:
+Sunday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-0.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-0.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/day-1 with prompt:
+Monday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-1.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/day-2 with prompt:
+Tuesday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/day-3 with prompt:
+Wednesday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-3.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/day-4 with prompt:
+Thursday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-4.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/day-5 with prompt:
+Friday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-5.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/day-6 with prompt:
+Saturday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/day-6.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/day-6.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/dollars with prompt:
+dollars
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/dollars.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/dollars.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-10 with prompt:
+tenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-10.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-10.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/h-11 with prompt:
+eleventh
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-11.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-11.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-12 with prompt:
+twelfth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-12.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-12.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-13 with prompt:
+thirteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-13.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-13.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/h-14 with prompt:
+fourteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-14.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-14.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating digits/h-15 with prompt:
+fifteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-15.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-15.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/h-16 with prompt:
+sixteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-16.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-16.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating digits/h-17 with prompt:
+seventeenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-17.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-17.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating digits/h-18 with prompt:
+eighteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-18.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-18.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/h-19 with prompt:
+nineteenth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-19.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-19.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/h-1 with prompt:
+first
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-1.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/h-20 with prompt:
+twentieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-20.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-20.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/h-2 with prompt:
+second
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-30 with prompt:
+thirtieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-30.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-30.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-3 with prompt:
+third
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-3.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/h-40 with prompt:
+fourtieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-40.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-40.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-4 with prompt:
+fourth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-4.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/h-50 with prompt:
+fiftieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-50.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-50.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-5 with prompt:
+fifth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-5.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/h-60 with prompt:
+sixtieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-60.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-60.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/h-6 with prompt:
+sixth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-6.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-6.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-70 with prompt:
+seventieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-70.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-70.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating digits/h-7 with prompt:
+seventh
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-7.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-7.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-80 with prompt:
+eightieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-80.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-80.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-8 with prompt:
+eighth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-8.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-8.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating digits/h-90 with prompt:
+ninetieth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-90.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-90.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/h-9 with prompt:
+ninth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-9.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-9.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-billion with prompt:
+billionth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-billion.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-billion.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/h-hundred with prompt:
+hundredth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-hundred.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-hundred.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-million with prompt:
+millionth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-million.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-million.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/h-thousand with prompt:
+thousandth
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/h-thousand.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/h-thousand.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/hundred with prompt:
+hundred
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/hundred.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/hundred.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/million with prompt:
+million
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/million.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/million.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/minus with prompt:
+minus
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/minus.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/minus.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/mon-0 with prompt:
+January
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-0.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-0.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating digits/mon-10 with prompt:
+November
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-10.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-10.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/mon-11 with prompt:
+December
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-11.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-11.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/mon-1 with prompt:
+February
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-1.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/mon-2 with prompt:
+March
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/mon-3 with prompt:
+April
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-3.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/mon-4 with prompt:
+May
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-4.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/mon-5 with prompt:
+June
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-5.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating digits/mon-6 with prompt:
+July
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-6.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-6.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/mon-7 with prompt:
+August
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-7.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-7.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/mon-8 with prompt:
+September
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-8.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-8.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/mon-9 with prompt:
+October
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/mon-9.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/mon-9.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/oclock with prompt:
+o'clock
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/oclock.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/oclock.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/oh with prompt:
+oh
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/oh.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/oh.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating digits/p-m with prompt:
+P.M.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/p-m.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/p-m.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/pound with prompt:
+pound
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/pound.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/pound.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/star with prompt:
+star
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/star.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/star.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating digits/thousand with prompt:
+thousand
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/thousand.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/thousand.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/today with prompt:
+today
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/today.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/today.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating digits/tomorrow with prompt:
+tomorrow
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/tomorrow.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/tomorrow.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating digits/yesterday with prompt:
+yesterday
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/digits/yesterday.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/digits/yesterday.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating dir-firstlast with prompt:
+... letters of your party's first or last name.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-firstlast.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-firstlast.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating dir-first with prompt:
+letters of your party's first name.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-first.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-first.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    33/34      32 kbps
+Generating dir-instr with prompt:
+If this is the person you are looking for press 1 now, otherwise please press star now.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-instr.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-instr.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    73/74      32 kbps
+Generating dir-intro-fn with prompt:
+Welcome to the directory.  Please enter the first three letters of your party's first name using your touch tone keypad.  Use the 7 key for Q and the 9 key for Z.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-intro-fn.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-intro-fn.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   154/155     32 kbps
+Generating dir-intro with prompt:
+Welcome to the directory.  Please enter the first three letters of your party's last name using your touch tone keypad.  Use the 7 key for Q and the 9 key for Z.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-intro.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-intro.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   152/153     32 kbps
+Generating dir-last with prompt:
+... letters of your party's last name.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-last.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-last.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    32/33      32 kbps
+Generating dir-multi1 with prompt:
+Press ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-multi1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-multi1.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating dir-multi2 with prompt:
+... for ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-multi2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-multi2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating dir-multi3 with prompt:
+... extension ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-multi3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-multi3.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating dir-multi9 with prompt:
+Press 9 for more entries.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-multi9.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-multi9.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating dir-nomatch with prompt:
+No directory entries match your search.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-nomatch.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-nomatch.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating dir-nomore with prompt:
+There are no more compatible entries in the directory.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-nomore.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-nomore.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating dir-pls-enter with prompt:
+Please enter the first ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-pls-enter.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-pls-enter.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating dir-usingkeypad with prompt:
+... using your touchtone keypad.  Use the 7 key for Q, and the 9 key for Z.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-usingkeypad.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-usingkeypad.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    88/89      32 kbps
+Generating dir-welcome with prompt:
+Welcome to the directory
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/dir-welcome.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/dir-welcome.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating disabled with prompt:
+Disabled.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/disabled.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/disabled.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating do-not-disturb with prompt:
+Do not disturb.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/do-not-disturb.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/do-not-disturb.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating enabled with prompt:
+Enabled.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/enabled.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/enabled.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating enter-num-blacklist with prompt:
+Please enter the number to be blacklisted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/enter-num-blacklist.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/enter-num-blacklist.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    35/36      32 kbps
+Generating entr-num-rmv-blklist with prompt:
+Please enter the number to be removed from the blacklist.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/entr-num-rmv-blklist.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/entr-num-rmv-blklist.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating extension with prompt:
+Extension.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/extension.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/extension.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating feature-not-avail-line with prompt:
+That feature is not available on this line.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/feature-not-avail-line.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/feature-not-avail-line.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating followme/call-from.wav with prompt:
+incoming call from
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/call-from.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/call-from.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating followme/no-recording.wav with prompt:
+you have an incoming call
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/no-recording.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/no-recording.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating followme/options.wav with prompt:
+press 1 to accept this call, or 2 to reject it
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/options.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/options.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    51/52      32 kbps
+Generating followme/pls-hold-while-try.wav with prompt:
+please hold while I try to locate the person you are calling
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/pls-hold-while-try.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/pls-hold-while-try.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    50/51      32 kbps
+Generating followme/sorry.wav with prompt:
+I'm sorry, but I was unable to locate the person you are calling
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/sorry.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/sorry.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    58/59      32 kbps
+Generating followme/status.wav with prompt:
+the person you are calling is not at their desk; I will try to locate them for you
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/followme/status.wav.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/followme/status.wav.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    68/69      32 kbps
+Generating for with prompt:
+For.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/for.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/for.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating from-unknown-caller with prompt:
+From an unknown caller.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/from-unknown-caller.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/from-unknown-caller.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating goodbye with prompt:
+Goodbye!
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/goodbye.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/goodbye.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating hello with prompt:
+Hello.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/hello.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/hello.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating hello-world with prompt:
+Hello world.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/hello-world.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/hello-world.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating hours with prompt:
+hours
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/hours.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/hours.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating if-correct-press with prompt:
+If this is correct, press...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/if-correct-press.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/if-correct-press.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    31/32      32 kbps
+Generating im-sorry with prompt:
+I'm sorry.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/im-sorry.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/im-sorry.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating info-about-last-call with prompt:
+Information about your last call.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/info-about-last-call.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/info-about-last-call.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating invalid with prompt:
+I am sorry, that's not a valid extension.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/invalid.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/invalid.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    71/72      32 kbps
+Generating is-in-use with prompt:
+Is in use.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/is-in-use.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/is-in-use.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating is with prompt:
+Is.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/is.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/is.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating is-set-to with prompt:
+Is set to.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/is-set-to.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/is-set-to.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating letters/a with prompt:
+a
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/a.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/a.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating letters/ascii123 with prompt:
+left brace
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii123.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii123.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating letters/ascii124 with prompt:
+pipe
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii124.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii124.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/ascii125 with prompt:
+right brace
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii125.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii125.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating letters/ascii126 with prompt:
+tilde
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii126.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii126.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/ascii34 with prompt:
+quote
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii34.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii34.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/ascii36 with prompt:
+dollar sign
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii36.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii36.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating letters/ascii37 with prompt:
+percent
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii37.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii37.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating letters/ascii38 with prompt:
+ampersand
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii38.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii38.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/ascii39 with prompt:
+tick
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii39.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii39.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/ascii40 with prompt:
+open parenthesis
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii40.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii40.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating letters/ascii41 with prompt:
+close parenthesis
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii41.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii41.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating letters/ascii42 with prompt:
+star
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii42.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii42.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating letters/ascii44 with prompt:
+comma
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii44.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii44.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/ascii58 with prompt:
+colon
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii58.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii58.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/ascii59 with prompt:
+semicolon
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii59.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii59.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating letters/ascii60 with prompt:
+less than
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii60.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii60.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating letters/ascii62 with prompt:
+greater than
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii62.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii62.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating letters/ascii63 with prompt:
+question mark
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii63.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii63.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating letters/ascii91 with prompt:
+left bracket
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii91.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii91.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating letters/ascii92 with prompt:
+backslash
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii92.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii92.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/ascii93 with prompt:
+right bracket
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii93.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii93.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating letters/ascii94 with prompt:
+caret
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii94.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii94.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/ascii95 with prompt:
+underscore
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii95.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii95.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/ascii96 with prompt:
+backtick
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/ascii96.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/ascii96.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating letters/asterisk with prompt:
+asterisk
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/asterisk.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/asterisk.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/at with prompt:
+at [@]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/at.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/at.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating letters/b with prompt:
+b
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/b.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/b.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    10/11      32 kbps
+Generating letters/c with prompt:
+c
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/c.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/c.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/dash with prompt:
+dash [-]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/dash.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/dash.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating letters/d with prompt:
+d
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/d.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/d.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/dollar with prompt:
+dollar [$]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/dollar.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/dollar.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating letters/dot with prompt:
+dot [.]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/dot.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/dot.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/e with prompt:
+e
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/e.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/e.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/equals with prompt:
+equals [=]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/equals.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/equals.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating letters/exclaimation-point with prompt:
+exclaimation-point [!]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/exclaimation-point.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/exclaimation-point.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating letters/f with prompt:
+f
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/f.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/f.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/g with prompt:
+g
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/g.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/g.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/h with prompt:
+h
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/h.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/h.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/i with prompt:
+i
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/i.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/i.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/j with prompt:
+j
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/j.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/j.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/k with prompt:
+k
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/k.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/k.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/l with prompt:
+l
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/l.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/l.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/m with prompt:
+m
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/m.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/m.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/n with prompt:
+n
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/n.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/n.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/o with prompt:
+o
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/o.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/o.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating letters/plus with prompt:
+plus [+]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/plus.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/plus.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating letters/p with prompt:
+p
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/p.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/q with prompt:
+q
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/q.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/q.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/r with prompt:
+r
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/r.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/r.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/slash with prompt:
+slash [/]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/slash.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/slash.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating letters/space with prompt:
+space [ ]
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/space.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/space.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating letters/s with prompt:
+s
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/s.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/s.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/t with prompt:
+t
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/t.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/t.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/u with prompt:
+u
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/u.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/u.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/v with prompt:
+v
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/v.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/v.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating letters/w with prompt:
+w
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/w.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/w.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating letters/x with prompt:
+x
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/x.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/x.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating letters/y with prompt:
+y
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/y.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/y.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/zed with prompt:
+zed
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/zed.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/zed.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating letters/z with prompt:
+z
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/letters/z.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/letters/z.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating location with prompt:
+Location.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/location.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/location.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating lowercase with prompt:
+lowercase
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/lowercase.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/lowercase.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating minutes with prompt:
+minutes
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/minutes.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/minutes.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating number-not-answering with prompt:
+The number is not answering.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/number-not-answering.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/number-not-answering.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating number with prompt:
+Number.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/number.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/number.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating num-was-successfully with prompt:
+The number was successfully...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/num-was-successfully.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/num-was-successfully.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating one-moment-please with prompt:
+One moment, please.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/one-moment-please.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/one-moment-please.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating pbx-invalid with prompt:
+I am sorry, that's not a valid extension.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pbx-invalid.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pbx-invalid.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    71/72      32 kbps
+Generating pbx-invalidpark with prompt:
+I am sorry, there is no call parked on that extension.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pbx-invalidpark.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pbx-invalidpark.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    75/76      32 kbps
+Generating pbx-parkingfailed with prompt:
+Parking attempt failed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pbx-parkingfailed.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pbx-parkingfailed.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating pbx-transfer with prompt:
+Transfer.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pbx-transfer.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pbx-transfer.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/9_p with prompt:
+niner
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/9_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/9_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/a_p with prompt:
+alpha
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/a_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/a_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/b_p with prompt:
+bravo
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/b_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/b_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/c_p with prompt:
+charlie
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/c_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/c_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/d_p with prompt:
+delta
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/d_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/d_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/e_p with prompt:
+echo
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/e_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/e_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/f_p with prompt:
+foxtrot
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/f_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/f_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating phonetic/g_p with prompt:
+golf
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/g_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/g_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating phonetic/h_p with prompt:
+hotel
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/h_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/h_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/i_p with prompt:
+india
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/i_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/i_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/j_p with prompt:
+juliet
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/j_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/j_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/k_p with prompt:
+kilo
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/k_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/k_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/l_p with prompt:
+lima
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/l_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/l_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/m_p with prompt:
+mike
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/m_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/m_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating phonetic/n_p with prompt:
+november
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/n_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/n_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating phonetic/o_p with prompt:
+oscar
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/o_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/o_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/p_p with prompt:
+papa
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/p_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/p_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating phonetic/q_p with prompt:
+quebec
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/q_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/q_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/r_p with prompt:
+romeo
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/r_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/r_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating phonetic/s_p with prompt:
+sierra
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/s_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/s_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating phonetic/t_p with prompt:
+tango
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/t_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/t_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/u_p with prompt:
+uniform
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/u_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/u_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating phonetic/v_p with prompt:
+victor
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/v_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/v_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/w_p with prompt:
+whiskey
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/w_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/w_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating phonetic/x_p with prompt:
+xray
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/x_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/x_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/y_p with prompt:
+yankee
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/y_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/y_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating phonetic/z_p with prompt:
+zulu
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/phonetic/z_p.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/phonetic/z_p.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating please-try-again with prompt:
+Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/please-try-again.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/please-try-again.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating pls-hold-while-try with prompt:
+Please hold while we try to connect you.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pls-hold-while-try.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pls-hold-while-try.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating pls-try-call-later with prompt:
+Please try your call again later.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pls-try-call-later.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pls-try-call-later.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    32/33      32 kbps
+Generating pm-invalid-option with prompt:
+That option is invalid. Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/pm-invalid-option.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/pm-invalid-option.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    51/52      32 kbps
+Generating privacy-incorrect with prompt:
+I'm sorry, that number is not valid.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/privacy-incorrect.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/privacy-incorrect.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating privacy-prompt with prompt:
+Please enter your phone number, starting with the area code.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/privacy-prompt.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/privacy-prompt.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    52/53      32 kbps
+Generating privacy-thankyou with prompt:
+Thank you.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/privacy-thankyou.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/privacy-thankyou.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating privacy-to-blacklist-last-caller with prompt:
+The last caller was...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/privacy-to-blacklist-last-caller.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/privacy-to-blacklist-last-caller.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating privacy-unident with prompt:
+The party you are trying to reach does not accept unidentified calls.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/privacy-unident.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/privacy-unident.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    57/58      32 kbps
+Generating priv-callee-options with prompt:
+Dial 1 if you wish this caller to reach you directly now, and in the future.  Dial 2 if you wish to send this caller to voicemail now and forevermore.  Dial 3 to send this caller to the torture menus, now and forevermore.  Dial 4 to send this caller to a polite "don't call" menu, now and forevermore.  Dial 5 to allow this caller to come straight thru to you in the future, but just this once, send them to voicemail.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/priv-callee-options.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/priv-callee-options.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   383/384     32 kbps
+Generating priv-introsaved with prompt:
+Thank you. Please hold, while I attempt to connect you with your party!
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/priv-introsaved.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/priv-introsaved.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    67/68      32 kbps
+Generating priv-recordintro with prompt:
+At the tone, please say your name.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/priv-recordintro.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/priv-recordintro.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating queue-callswaiting with prompt:
+Waiting to speak with a representative
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-callswaiting.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-callswaiting.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    32/33      32 kbps
+Generating queue-holdtime with prompt:
+The estimated hold time is currently
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-holdtime.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-holdtime.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating queue-less-than with prompt:
+less than
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-less-than.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-less-than.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating queue-minute with prompt:
+minute
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-minute.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-minute.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating queue-minutes with prompt:
+minutes
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-minutes.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-minutes.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating queue-periodic-announce with prompt:
+All of our represenatives are currently busy. Please stay on the line and your call will be answered by the next available representative.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-periodic-announce.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-periodic-announce.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   110/111     32 kbps
+Generating queue-quantity1 with prompt:
+Currently, there are more than ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-quantity1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-quantity1.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating queue-quantity2 with prompt:
+... callers waiting to speak with a representative.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-quantity2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-quantity2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating queue-reporthold with prompt:
+Hold time
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-reporthold.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-reporthold.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating queue-seconds with prompt:
+Seconds
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-seconds.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-seconds.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating queue-thankyou with prompt:
+Thank you for your patience
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-thankyou.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-thankyou.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating queue-thereare with prompt:
+You are currently caller number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-thereare.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-thereare.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating queue-youarenext with prompt:
+Your call is now first in line and will be answered by the next available representative.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/queue-youarenext.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/queue-youarenext.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    72/73      32 kbps
+Generating removed with prompt:
+Removed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/removed.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/removed.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating screen-callee-options with prompt:
+Dial 1 if you wish to immediately connect to the incoming call.  Dial 2 if you wish to send this caller to voicemail.  Dial 3 to send this caller to the torture menus.  Dial 4 to send this caller to a polite "don't call" menu.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/screen-callee-options.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/screen-callee-options.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   212/213     32 kbps
+Generating seconds with prompt:
+seconds
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/seconds.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/seconds.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating silence/10 with prompt:
+(10 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/10.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/10.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating silence/1 with prompt:
+(1 second of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/1.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating silence/2 with prompt:
+(2 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/2.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating silence/3 with prompt:
+(3 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/3.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating silence/4 with prompt:
+(4 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/4.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating silence/5 with prompt:
+(5 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/5.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating silence/6 with prompt:
+(6 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/6.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/6.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating silence/7 with prompt:
+(7 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/7.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/7.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating silence/8 with prompt:
+(8 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/8.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/8.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating silence/9 with prompt:
+(9 seconds of silence)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/silence/9.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/silence/9.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating simul-call-limit-reached with prompt:
+Simultaneous call limit reached.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/simul-call-limit-reached.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/simul-call-limit-reached.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating something-terribly-wrong with prompt:
+Something is terribly wrong!
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/something-terribly-wrong.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/something-terribly-wrong.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating sorry with prompt:
+We're sorry.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/sorry.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/sorry.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating sorry-youre-having-problems with prompt:
+Sorry you're having problems.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/sorry-youre-having-problems.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/sorry-youre-having-problems.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating speed-dial-empty with prompt:
+The speed dial entry you've accessed is empty.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/speed-dial-empty.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/speed-dial-empty.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating speed-dial with prompt:
+Speed-dial.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/speed-dial.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/speed-dial.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating spy-agent with prompt:
+Agent
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-agent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-agent.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating spy-console with prompt:
+Console
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-console.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-console.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating spy-dahdi with prompt:
+DAHDI
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-dahdi.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-dahdi.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating spy-h323 with prompt:
+H.323
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-h323.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-h323.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating spy-iax2 with prompt:
+does not say "2")
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-iax2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-iax2.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating spy-iax with prompt:
+IAX
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-iax.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-iax.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating spy-jingle with prompt:
+Jingle
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-jingle.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-jingle.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating spy-local with prompt:
+Local
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-local.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-local.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating spy-mgcp with prompt:
+MGCP
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-mgcp.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-mgcp.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating spy-misdn with prompt:
+M I S D N
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-misdn.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-misdn.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating spy-mobile with prompt:
+Bluetooth Mobile
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-mobile.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-mobile.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating spy-nbs with prompt:
+N B S
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-nbs.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-nbs.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating spy-sip with prompt:
+SIP
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-sip.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-sip.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating spy-skinny with prompt:
+Skinny
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-skinny.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-skinny.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating spy-unistim with prompt:
+Unistim
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-unistim.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-unistim.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating spy-usbradio with prompt:
+USB Radio
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-usbradio.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-usbradio.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating spy-zap with prompt:
+Zap
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/spy-zap.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/spy-zap.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating ss-noservice with prompt:
+The number you have dialed is not in service. Please check the number and try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/ss-noservice.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/ss-noservice.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    76/77      32 kbps
+Generating telephone-number with prompt:
+Telephone number.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/telephone-number.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/telephone-number.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating time with prompt:
+Time.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/time.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/time.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating to-call-this-number with prompt:
+To call this number.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/to-call-this-number.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/to-call-this-number.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating to-extension with prompt:
+To extension.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/to-extension.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/to-extension.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating to-listen-to-it with prompt:
+To listen to it.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/to-listen-to-it.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/to-listen-to-it.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating to-rerecord-it with prompt:
+To re-record it.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/to-rerecord-it.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/to-rerecord-it.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating transfer with prompt:
+Please hold while I try that extension.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/transfer.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/transfer.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    37/38      32 kbps
+Generating tt-allbusy with prompt:
+All representatives of the household are currently assisting other telemarketers.  Please hold and your call will be answered in the order it was received.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/tt-allbusy.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/tt-allbusy.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   126/127     32 kbps
+Generating tt-monkeysintro with prompt:
+They have been carried away by monkeys
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/tt-monkeysintro.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/tt-monkeysintro.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Skipping DIRECTION line: tt-monkeys: [sound of monkeys screaming]
+Generating tt-somethingwrong with prompt:
+Something is terribly wrong
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/tt-somethingwrong.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/tt-somethingwrong.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating tt-weasels with prompt:
+Weasels have eaten our phone system
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/tt-weasels.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/tt-weasels.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    33/34      32 kbps
+Generating unidentified-no-callback with prompt:
+Un-indentified or witheld and therefore cannot be called back.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/unidentified-no-callback.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/unidentified-no-callback.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    50/51      32 kbps
+Generating uppercase with prompt:
+uppercase
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/uppercase.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/uppercase.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating vm-advopts with prompt:
+press 3 for advanced options
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-advopts.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-advopts.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    35/36      32 kbps
+Generating vm-and with prompt:
+and
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-and.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-and.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating vm-calldiffnum with prompt:
+press 2 to enter a different number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-calldiffnum.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-calldiffnum.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating vm-changeto with prompt:
+Change to which folder?
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-changeto.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-changeto.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    24/25      32 kbps
+Generating vm-Cust1 with prompt:
+folder 5
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Cust1.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Cust1.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating vm-Cust2 with prompt:
+folder 6
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Cust2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Cust2.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating vm-Cust3 with prompt:
+folder 7
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Cust3.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Cust3.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating vm-Cust4 with prompt:
+folder 8
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Cust4.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Cust4.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    18/19      32 kbps
+Generating vm-Cust5 with prompt:
+folder 9
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Cust5.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Cust5.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    17/18      32 kbps
+Generating vm-deleted with prompt:
+Message deleted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-deleted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-deleted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating vm-delete with prompt:
+Press 7 to delete this message.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-delete.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-delete.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating vm-dialout with prompt:
+please wait while i connect your call
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-dialout.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-dialout.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating vm-duration with prompt:
+This message lasts ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-duration.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-duration.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-enter-num-to-call with prompt:
+please enter the number you wish to call
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-enter-num-to-call.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-enter-num-to-call.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    35/36      32 kbps
+Generating vm-extension with prompt:
+extension
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-extension.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-extension.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating vm-Family with prompt:
+family
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Family.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Family.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating vm-first with prompt:
+first
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-first.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-first.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating vm-for with prompt:
+for
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-for.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-for.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating vm-forward-multiple with prompt:
+press 1 to send this message, or 2 to add another recipient.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-forward-multiple.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-forward-multiple.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    63/64      32 kbps
+Generating vm-forwardoptions with prompt:
+press 1 to prepend a message or 2 to forward the message without prepending
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-forwardoptions.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-forwardoptions.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    66/67      32 kbps
+Generating vm-forward with prompt:
+Press 1 to enter an extension, press 2 to use the directory
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-forward.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-forward.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    62/63      32 kbps
+Generating vm-Friends with prompt:
+friends
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Friends.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Friends.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating vm-from-extension with prompt:
+message from extension
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-from-extension.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-from-extension.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-from with prompt:
+from
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-from.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-from.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating vm-from-phonenumber with prompt:
+message from phone number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-from-phonenumber.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-from-phonenumber.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-goodbye with prompt:
+Goodbye
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-goodbye.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-goodbye.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-helpexit with prompt:
+Press star for help or pound to exit.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-helpexit.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-helpexit.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    36/37      32 kbps
+Generating vm-INBOX with prompt:
+new
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-INBOX.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-INBOX.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating vm-incorrect with prompt:
+Login incorrect.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-incorrect.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-incorrect.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating vm-incorrect-mailbox with prompt:
+Login incorrect.  Mailbox?
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-incorrect-mailbox.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-incorrect-mailbox.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    41/42      32 kbps
+Generating vm-instructions with prompt:
+To look into your messages press 1 now.  You may quit voicemail at any time by pressing the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-instructions.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-instructions.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    94/95      32 kbps
+Generating vm-intro with prompt:
+Please leave your message after the tone.  When done hang up or press the pound key. (simple tone sound plays)
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-intro.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-intro.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   109/110     32 kbps
+Generating vm-invalidpassword with prompt:
+That is not a valid password.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-invalidpassword.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-invalidpassword.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    54/55      32 kbps
+Generating vm-invalid-password with prompt:
+That password does not meet the minimum requirements for this mailbox.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-invalid-password.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-invalid-password.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    80/81      32 kbps
+Generating vm-isonphone with prompt:
+is on the phone
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-isonphone.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-isonphone.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating vm-isunavail with prompt:
+is unavailable
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-isunavail.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-isunavail.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating vm-last with prompt:
+last
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-last.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-last.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-leavemsg with prompt:
+Press 5 to leave a message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-leavemsg.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-leavemsg.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    31/32      32 kbps
+Generating vm-login with prompt:
+Comedian Mail.  Mailbox?
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-login.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-login.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    37/38      32 kbps
+Generating vm-mailboxfull with prompt:
+sorry but the user's mail box can't accept more messages
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-mailboxfull.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-mailboxfull.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    53/54      32 kbps
+Generating vm-marked-nonurgent with prompt:
+Urgent status removed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-marked-nonurgent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-marked-nonurgent.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-marked-urgent with prompt:
+Message marked urgent.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-marked-urgent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-marked-urgent.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-message with prompt:
+message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-message.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-message.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-messages with prompt:
+messages
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-messages.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-messages.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    16/17      32 kbps
+Generating vm-minutes with prompt:
+minutes
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-minutes.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-minutes.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-mismatch with prompt:
+The passwords you entered and re-entered did not match.  Please try again.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-mismatch.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-mismatch.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    68/69      32 kbps
+Generating vm-msgforwarded with prompt:
+Your message has been successfully forwarded.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-msgforwarded.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-msgforwarded.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating vm-msginstruct with prompt:
+To hear the next message press 6, to repeat this message press 5, to hear the previous message press 4, to delete or undelete this message press zero, to quit voicemail press pound.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-msginstruct.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-msginstruct.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   170/171     32 kbps
+Generating vm-msgsaved with prompt:
+Your message has been saved.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-msgsaved.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-msgsaved.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating vm-newpassword with prompt:
+Please enter your new password followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-newpassword.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-newpassword.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    48/49      32 kbps
+Generating vm-newuser with prompt:
+Welcome to Comedian Mail. First, I will guide you through a short setup process.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-newuser.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-newuser.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    83/84      32 kbps
+Generating vm-next with prompt:
+Press 6 to play the next message.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-next.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-next.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating vm-nobodyavail with prompt:
+Nobody is available to take your call at the moment
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-nobodyavail.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-nobodyavail.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating vm-nobox with prompt:
+you cannot reply to this message because the sender does not have a mailbox
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-nobox.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-nobox.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    62/63      32 kbps
+Generating vm-nomore with prompt:
+No more messages.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-nomore.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-nomore.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating vm-no with prompt:
+no
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-no.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-no.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating vm-nonumber with prompt:
+I'm afraid i don't know who sent this message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-nonumber.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-nonumber.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating vm-num-i-have with prompt:
+the number i have is
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-num-i-have.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-num-i-have.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-Old with prompt:
+old
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Old.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Old.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    11/12      32 kbps
+Generating vm-onefor-full with prompt:
+Press one to listen to ...
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-onefor-full.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-onefor-full.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    27/28      32 kbps
+Generating vm-onefor with prompt:
+Press 1 for
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-onefor.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-onefor.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    20/21      32 kbps
+Generating vm-options with prompt:
+Press 1 to record your unavailable message, press 2 to record your busy message, press 3 to record your name, press 4 to record your temporary greeting, press 5 to change your password, press star to return to the main menu.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-options.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-options.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   203/204     32 kbps
+Generating vm-opts-full with prompt:
+press 2 to access messages saved in other folders.  Press 3 to record a message for another mailbox.  Press 0 for greetings and password management.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-opts-full.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-opts-full.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#   154/155     32 kbps
+Generating vm-opts with prompt:
+Press 2 to change folders, press 3 for advanced options, press zero for mailbox options.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-opts.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-opts.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    96/97      32 kbps
+Generating vm-passchanged with prompt:
+Your passwords have been changed.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-passchanged.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-passchanged.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating vm-password with prompt:
+password
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-password.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-password.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-pls-try-again with prompt:
+please try again
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-pls-try-again.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-pls-try-again.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating vm-press with prompt:
+press
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-press.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-press.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating vm-prev with prompt:
+Press 4 for the previous message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-prev.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-prev.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    34/35      32 kbps
+Generating vm-reachoper with prompt:
+press 0 to reach an operator
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-reachoper.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-reachoper.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    37/38      32 kbps
+Generating vm-rec-busy with prompt:
+After the tone say your busy message and then press the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-rec-busy.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-rec-busy.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    55/56      32 kbps
+Generating vm-received with prompt:
+received
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-received.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-received.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating vm-rec-name with prompt:
+After the tone say your name and then press the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-rec-name.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-rec-name.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    49/50      32 kbps
+Generating vm-record-prepend with prompt:
+At the tone, please record an introduction to the forwarded message.  When done, press the pound sign.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-record-prepend.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-record-prepend.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    98/99      32 kbps
+Generating vm-rec-temp with prompt:
+After the tone, say your temporary message, and then press the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-rec-temp.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-rec-temp.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    70/71      32 kbps
+Generating vm-rec-unv with prompt:
+After the tone say your unavailable message and then press the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-rec-unv.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-rec-unv.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    60/61      32 kbps
+Generating vm-reenterpassword with prompt:
+Please re-enter your password followed by the pound key.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-reenterpassword.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-reenterpassword.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating vm-repeat with prompt:
+Press 5 to repeat the current message.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-repeat.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-repeat.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating vm-review-nonurgent with prompt:
+Press 4 to remove the urgent status of this message.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-review-nonurgent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-review-nonurgent.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    50/51      32 kbps
+Generating vm-review with prompt:
+press 1 to accept this recording press 2 to listen to it press 3 to rerecord your message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-review.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-review.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    83/84      32 kbps
+Generating vm-review-urgent with prompt:
+Press 4 to mark this message as urgent.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-review-urgent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-review-urgent.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    41/42      32 kbps
+Generating vm-saved with prompt:
+saved
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-saved.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-saved.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    14/15      32 kbps
+Generating vm-savedto with prompt:
+saved to
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-savedto.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-savedto.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    19/20      32 kbps
+Generating vm-savefolder with prompt:
+Which folder should I save the message to?
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-savefolder.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-savefolder.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    37/38      32 kbps
+Generating vm-savemessage with prompt:
+or 9 to save this message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-savemessage.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-savemessage.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    30/31      32 kbps
+Generating vm-saveoper with prompt:
+press 1 to accept this recording, otherwise, please continue to hold
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-saveoper.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-saveoper.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    72/73      32 kbps
+Generating vm-sorry with prompt:
+I'm sorry I did not understand your response.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-sorry.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-sorry.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    42/43      32 kbps
+Generating vm-star-cancel with prompt:
+press star to cancel
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-star-cancel.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-star-cancel.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating vm-starmain with prompt:
+press star to return to the main menu
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-starmain.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-starmain.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating vm-tempgreetactive with prompt:
+Your temporary greeting is currently active
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tempgreetactive.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tempgreetactive.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    42/43      32 kbps
+Generating vm-tempgreeting2 with prompt:
+press 1 to record your temporary greeting, or press 2 to erase your temporary greeting
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tempgreeting2.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tempgreeting2.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    79/80      32 kbps
+Generating vm-tempgreeting with prompt:
+press 1 to record your temporary greeting
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tempgreeting.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tempgreeting.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    40/41      32 kbps
+Generating vm-tempremoved with prompt:
+Your temporary greeting has been removed
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tempremoved.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tempremoved.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating vm-then-pound with prompt:
+then press pound
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-then-pound.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-then-pound.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    21/22      32 kbps
+Generating vm-theperson with prompt:
+The person at extension
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-theperson.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-theperson.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    26/27      32 kbps
+Generating vm-tmpexists with prompt:
+There is a temporary greeting, which overrides your standard greetings.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tmpexists.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tmpexists.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    58/59      32 kbps
+Generating vm-tocallback with prompt:
+press 2 to call the person who sent this message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tocallback.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tocallback.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    47/48      32 kbps
+Generating vm-tocallnum with prompt:
+press 1 to call this number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tocallnum.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tocallnum.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating vm-tocancelmsg with prompt:
+press star to cancel this message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tocancelmsg.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tocancelmsg.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    35/36      32 kbps
+Generating vm-tocancel with prompt:
+or pound to cancel.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tocancel.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tocancel.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    22/23      32 kbps
+Generating vm-toenternumber with prompt:
+press 1 to enter a number
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-toenternumber.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-toenternumber.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    29/30      32 kbps
+Generating vm-toforward with prompt:
+Press 8 to forward the message to another user
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-toforward.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-toforward.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    45/46      32 kbps
+Generating vm-tohearenv with prompt:
+press 3 to hear the message envelope
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tohearenv.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tohearenv.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating vm-tomakecall with prompt:
+press 4 to place an outgoing call
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tomakecall.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tomakecall.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating vm-tooshort with prompt:
+your message is too short
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-tooshort.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-tooshort.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    28/29      32 kbps
+Generating vm-toreply with prompt:
+press 1 to send a reply
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-toreply.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-toreply.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    31/32      32 kbps
+Generating vm-torerecord with prompt:
+press 3 to rerecord your message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-torerecord.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-torerecord.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    38/39      32 kbps
+Generating vm-undeleted with prompt:
+Message undeleted.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-undeleted.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-undeleted.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    23/24      32 kbps
+Generating vm-undelete with prompt:
+Press 7 to undelete this message
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-undelete.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-undelete.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    39/40      32 kbps
+Generating vm-unknown-caller with prompt:
+from an unknown caller
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-unknown-caller.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-unknown-caller.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    25/26      32 kbps
+Generating vm-Urgent with prompt:
+urgent
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Urgent.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Urgent.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    13/14      32 kbps
+Generating vm-whichbox with prompt:
+To leave a message, please enter a mailbox number.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-whichbox.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-whichbox.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    50/51      32 kbps
+Generating vm-Work with prompt:
+work
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-Work.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-Work.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating vm-youhave with prompt:
+you have
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/vm-youhave.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/vm-youhave.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating with with prompt:
+With.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/with.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/with.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
+Generating you-entered with prompt:
+You entered.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/you-entered.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/you-entered.wav
+	(16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    15/16      32 kbps
+Generating your with prompt:
+Your.
+... [OK]
+input:  /opt/aws-nodejs/custom-asterisk/your.mp3
+	(8 kHz, 1 channel, MPEG-2.5 Layer III)
+output: /opt/aws-nodejs/custom-asterisk/your.wav  (16 bit, Microsoft WAVE)
+skipping initial 529 samples (encoder+decoder delay)
+Frame#    12/13      32 kbps
