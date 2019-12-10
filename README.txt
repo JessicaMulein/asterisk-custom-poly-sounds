@@ -1,6 +1,8 @@
 These sounds were generated on December 10, 2019 using Amazon Polly APIs and Asterisk speech scripts.
 
 The resultant output is most likely the chimera bastard copyright of Amazon, myself, and Asterisk. Probably in that order, but I am not a lawyer.
+-- Regarding the license, I've uploaded and added LICENSE-asterisk-core-en-1.5 which these voice prompts are based on, making these a derivitive work.
+
 
 It may not even be legal for me to post the repository, but until I am told otherwise, here it is.
 
