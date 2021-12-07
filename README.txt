@@ -5,7 +5,7 @@ The resultant output is most likely the chimera bastard copyright of Amazon, Mys
 -- Polly doesn't seem to have much in the way of stated concern that I found. https://aws.amazon.com/polly/faqs/
 
 
-It may not even be legal from Amazon perspective for these files to be available for download in the format, but until I am told otherwise, here it is. They are the programmatic, known and expected outcome of a given set of inputs which are a licensed and properly used property (Asterisk voice prompts).
+It may not even be legal from Amazon perspective for these files to be available for download in this format, but until I am told otherwise, here it is. They are the programmatic, known and expected outcome of a given set of inputs which are a licensed and properly used property (Asterisk voice prompts).
 
 Generated using https://github.com/jessica-mulein/regenerate-asterisk-sounds-from-poly-tts
 
